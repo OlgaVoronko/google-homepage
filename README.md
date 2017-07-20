@@ -1,2 +1,3 @@
 # google-homepage
-My first repository on GitHub.
+Creating the copy of Gogle homepage.
+http://codenamecrud.ru/basics-of-web-development/project-html-css
